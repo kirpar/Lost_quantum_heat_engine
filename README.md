@@ -1,1 +1,1 @@
-# Lost_quantum_heat_engine
+# Lost quantum heat engine repository
